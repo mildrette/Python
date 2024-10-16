@@ -191,3 +191,21 @@ if Temperature > 30:
     print("it's a hot day")
 else: 
     print("It's not a hot day")
+
+
+
+# comparing
+
+Temperature = 30
+
+if Temperature > 30: # if i change the > to = it is and assignment and no more comparing, and you can also change it too != which means is not qual too or == which mean is equivilent too
+    print("it's a hot day")
+else: 
+    print("It's not a hot day")
+
+# exercise
+
+name = input('fill in your name: ')
+
+
+if: hase
