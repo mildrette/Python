@@ -10,3 +10,4 @@ print(f"what's your name? {name}")
 has_computer = input("do you have a computer?")
 
 print(f"{has_computer} Its a very nice one")
+
