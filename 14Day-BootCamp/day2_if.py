@@ -28,3 +28,8 @@ if password == "python123":
 
 
 # the Not Equal to sign
+
+sleeping = False
+
+if sleeping != True:
+    print("i am not sleeping yet")
