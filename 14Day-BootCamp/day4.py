@@ -45,3 +45,28 @@ print(len(fruits))
 fruits.append("mangoes")
 
 print(len(fruits))
+
+print("mangoes" in fruits)
+
+print("pear" in fruits)
+print("pawpaw" in fruits)
+
+for fruit in fruits:
+    print("I am eating a", fruit)
+
+for fruitbasket in fruits:
+    print("I love", fruitbasket)
+
+
+
+
+animals = ["cat", "dog", "rabbit", "lion"]
+
+print(animals)
+print("dog" in animals)
+print("elephant" in animals)
+
+for animal in animals:
+    print("I have a", animal)
+
+    
