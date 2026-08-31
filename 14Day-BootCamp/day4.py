@@ -26,3 +26,22 @@ print(names[5])
 names.remove("favour")
 
 print(names)
+
+print(len(names))
+
+names.remove("faith")
+
+print(len(names))
+
+
+
+
+fruits = ["pear", "apple", "banana", "grapes"]
+
+print(fruits)
+print(fruits[0])
+print(len(fruits))
+
+fruits.append("mangoes")
+
+print(len(fruits))
