@@ -15,3 +15,14 @@ print(names[3])
 names[2] = "queen"
 
 print(names)
+
+names.append("joy")
+names.append("Hope")
+names.append("Life")
+
+print(names)
+print(names[5])
+
+names.remove("favour")
+
+print(names)
