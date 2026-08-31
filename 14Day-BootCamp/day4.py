@@ -3,5 +3,15 @@
 
 names = ["mildred", "favour", "promise", "faith"]
 
-print(names)
+print(names[0])
 
+print(names[2])
+
+print(names[3])
+
+# names[1] = "grace"
+# names[2] = "Blessing"
+
+names[2] = "queen"
+
+print(names)
